@@ -1,0 +1,45 @@
+* {
+    font-family: system-ui, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #333;
+}
+
+body {
+    padding: 2em 1em;
+}
+
+h4, h5, h6 {
+    font-weight: 500;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+    line-height: 1.5em;
+    border-bottom: 0.05em solid #CCC;
+}
+
+b {
+    font-weight: 500;
+}
+
+p {
+    margin: 0;
+}
+
+article {
+    margin: 1em 0;
+    line-height: 1.5em;
+}
+
+section {
+    margin: 0.8em 0;
+}
+
+a {
+    color: #06D;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
