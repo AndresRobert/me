@@ -35,13 +35,13 @@ _Key achievement: Created the native mobile version of a web based HR Feedback a
  
 **Bachelor of Engineering**    
 DUOC College    
-2013–2016    
+2013 – 2016    
 Heavy focus on full stack engineering with modules on both front and back end processes.
 Built a fully working CRM system for Car dealers and a working prototype for interior navition in buildings and stores.
 
 **Bachelor of Science**    
 University of Santiago    
-2004–2007    
+2004 – 2007    
 
 ## Skills
  
