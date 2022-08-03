@@ -59,4 +59,5 @@ img.profile {
     position: absolute;
     right: 1em;
     top: 1.3em;
+    border: 0.05em solid #CCC;
 }
