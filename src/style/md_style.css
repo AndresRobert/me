@@ -95,14 +95,33 @@ section.points > img {
 ul.chips {
     list-style: none;
     display: inline-block;
-    padding: 0;
+    padding: 0 1em;
     margin: 0;
+    position: relative;
 }
 
 ul.chips > li {
     float: left;
-    padding: 0.2em 0.5em;
+    padding: 0.25em 0.5em;
     margin: 0 0.5em 0.5em 0;
-    border: 0.5em solid #EEE;
+    border: 0.1em solid #EEE;
     border-radius: 1em;
+}
+
+ul.cards {
+    list-style: none;
+    display: inline-block;
+    padding: 0 1em;
+    margin: 0;
+    position: relative;
+}
+
+ul.cards > li {
+    float: left;
+    border: 0.1em solid #EEE;
+    border-radius: 0.5em;
+    width: 50%;
+    height: 5em;
+    padding: 0.5em;
+    margin: 0 0.5em 0.5em 0;
 }
