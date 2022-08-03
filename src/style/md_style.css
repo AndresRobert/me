@@ -1,7 +1,7 @@
 * {
-    font-family: system-ui, Arial, Helvetica, sans-serif;
-    font-weight: 300;
-    color: #333;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #444;
 }
 
 html {
@@ -17,17 +17,17 @@ body {
 }
 
 h4, h5, h6 {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 h1, h2, h3 {
-    font-weight: 600;
+    font-weight: 800;
     line-height: 1.5em;
     border-bottom: 0.05em solid #CCC;
 }
 
 b {
-    font-weight: 500;
+    font-weight: 800;
 }
 
 p {
@@ -41,6 +41,10 @@ article {
 
 section {
     margin: 0.8em 0;
+}
+
+article.narrow, section.narrow  {
+    padding: 0 1em;
 }
 
 a {
