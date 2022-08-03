@@ -4,8 +4,16 @@
     color: #333;
 }
 
+html {
+    background-color: #F1F6FF;
+}
+
 body {
     padding: 2em 1em;
+    max-width: 800px;
+    margin: auto;
+    background-color: #FFF;
+    position: relative;
 }
 
 h4, h5, h6 {
@@ -42,4 +50,13 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+img.profile {
+    border-radius: 50%;
+    height: 10em;
+    width: 10em;
+    position: absolute;
+    right: 1em;
+    top: 1.3em;
 }
