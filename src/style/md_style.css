@@ -132,7 +132,7 @@ ul.cards > li > p:first-of-type {
     left: 2.5em;
 }
 
-ul.cards > li > p:first-of-type > a:last-of-type {
+ul.cards > li > p:first-of-type > a:last-of-type:not(:first-of-type) {
     color: #666;
     border: #CCC solid 0.1em;
     border-radius: 1em;
@@ -140,21 +140,21 @@ ul.cards > li > p:first-of-type > a:last-of-type {
     font-size: 0.8em;
 }
 
-ul.cards > li > p:first-of-type > a:last-of-type:hover {
+ul.cards > li > p:first-of-type > a:last-of-type:not(:first-of-type):hover {
     text-decoration: none;
     background-color: #EEE;
     color: #333;
     border-color: #DDD;
 }
 
-ul.cards > li > p:last-of-type {
+ul.cards > li > p:last-of-type:not(:first-of-type) {
     position: absolute;
     font-size: 0.8em;
     color: #999;
     bottom: 0;
 }
 
-ul.cards > li > p:last-of-type > span {
+ul.cards > li > p:last-of-type:not(:first-of-type) > span {
     padding: 0.2em 1em 0.2em 2em;
     background-repeat: no-repeat;
     background-position: 0 -0.3em;
