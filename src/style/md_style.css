@@ -1,11 +1,8 @@
-* {
-    font-family: sans-serif;
-    font-weight: 400;
-}
-
 html {
     background-color: #F6F6F6;
     font-size: 14px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 400;
 }
 
 body {
@@ -18,23 +15,23 @@ body {
 
 h4, h5, h6 {
     font-weight: 600;
-    color: #000;
+    color: #222;
 }
 
 h1, h2, h3 {
     font-weight: 800;
-    color: #000;
+    color: #222;
     line-height: 1.5em;
     border-bottom: 0.05em solid #F1F1F1;
 }
 
 b {
     font-weight: 800;
-    color: #000;
+    color: #222;
 }
 
 i {
-    color: #000;
+    color: #222;
 }
 
 p {
