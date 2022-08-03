@@ -72,14 +72,22 @@ i {
 
 section.points {
     padding: 0 1em;
-    background-image: radial-gradient(#CDE 0.5em, transparent 0);
-    background-size: 1em 1em;
-    background-position: 0.6em 0.5em;
+    background-image: radial-gradient(#CDE 0.8em, transparent 0);
+    background-size: 2em 2em;
+    background-position: 0.1em -0.18em;
     background-repeat: no-repeat;
+    position: relative;
 }
 
 section.points > p {
     border-left: 0.2em solid #CDE;
     margin: 0;
     padding: 0.2em 1em;
+}
+
+section.points > img {
+    position: absolute;
+    width: 1em;
+    top: 0.3em;
+    left: 0.6em;
 }
