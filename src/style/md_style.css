@@ -109,6 +109,7 @@ ul.chips > li {
     margin: 0 0.5em 0.5em 0;
     border: 0.1em solid #EEE;
     border-radius: 1em;
+    font-size: 0.8em;
 }
 
 ul.cards > li {
@@ -124,13 +125,13 @@ ul.cards > li > img {
     height: 1em;
 }
 
-ul.cards > li > p:first-child {
+ul.cards > li > p:first-of-type {
     position: absolute;
     top: 0.7em;
     left: 2.5em;
 }
 
-ul.cards > li > p:first-child > a:last-child {
+ul.cards > li > p:first-of-type > a:last-of-type {
     color: #666;
     border: #CCC solid 0.1em;
     border-radius: 1em;
@@ -138,21 +139,21 @@ ul.cards > li > p:first-child > a:last-child {
     font-size: 0.8em;
 }
 
-ul.cards > li > p:first-child > a:last-child:hover {
+ul.cards > li > p:first-of-type > a:last-of-type:hover {
     text-decoration: none;
     background-color: #EEE;
     color: #333;
     border-color: #DDD;
 }
 
-ul.cards > li > p:last-child {
+ul.cards > li > p:last-of-type {
     position: absolute;
     font-size: 0.8em;
     color: #999;
     bottom: 0;
 }
 
-ul.cards > li > p:last-child > span {
+ul.cards > li > p:last-of-type > span {
     padding: 0.2em 1em 0.2em 2em;
     background-repeat: no-repeat;
     background-position: 0 -0.3em;
@@ -160,28 +161,28 @@ ul.cards > li > p:last-child > span {
     background-image: radial-gradient(#EEE 0.6em, transparent 0);
 }
 
-ul.cards > li > p:not(:first-child):not(:last-child) {
+ul.cards > li > p:not(:first-of-type):not(:last-of-type) {
     font-size: 0.9em;
     padding: 0 0 1em 1.6em;
     color: #777;
 }
 
 .java-dot {
-    background-image: radial-gradient(#1BB 0.6em, transparent 0);
+    background-image: radial-gradient(#1BB 0.6em, transparent 0) !important;
 }
 
 .php-dot {
-    background-image: radial-gradient(#77B 0.6em, transparent 0);
+    background-image: radial-gradient(#77B 0.6em, transparent 0) !important;
 }
 
 .js-dot {
-    background-image: radial-gradient(#FD4 0.6em, transparent 0);
+    background-image: radial-gradient(#FD4 0.6em, transparent 0) !important;
 }
 
 .css-dot {
-    background-image: radial-gradient(#36E 0.6em, transparent 0);
+    background-image: radial-gradient(#36E 0.6em, transparent 0) !important;
 }
 
 .py-dot {
-    background-image: radial-gradient(#5A3 0.6em, transparent 0);
+    background-image: radial-gradient(#5A3 0.6em, transparent 0) !important;
 }
