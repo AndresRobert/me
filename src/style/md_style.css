@@ -1,7 +1,6 @@
 * {
     font-family: sans-serif;
     font-weight: 400;
-    color: #444;
 }
 
 html {
@@ -18,20 +17,28 @@ body {
 
 h4, h5, h6 {
     font-weight: 600;
+    color: #000;
 }
 
 h1, h2, h3 {
     font-weight: 800;
+    color: #000;
     line-height: 1.5em;
     border-bottom: 0.05em solid #F1F1F1;
 }
 
 b {
     font-weight: 800;
+    color: #000;
+}
+
+i {
+    color: #000;
 }
 
 p {
     margin: 0.3em 0;
+    color: #444;
 }
 
 article {
@@ -66,10 +73,6 @@ img.profile {
     border: 0.05em solid #EEE;
 }
 
-i {
-    color: #000;
-}
-
 section.points {
     padding: 0 1em;
     background-image: radial-gradient(#F1F1F1 0.8em, transparent 0);
@@ -92,7 +95,7 @@ section.points > img {
     left: 0.6em;
 }
 
-ul.chips {
+ul.chips, ul.cards {
     list-style: none;
     display: inline-block;
     padding: 0 1em;
@@ -108,20 +111,77 @@ ul.chips > li {
     border-radius: 1em;
 }
 
-ul.cards {
-    list-style: none;
-    display: inline-block;
-    padding: 0 1em;
-    margin: 0;
+ul.cards > li {
+    border: 0.1em solid #EEE;
+    border-radius: 0.5em;
+    padding: 1em;
+    margin-bottom: 1em;
     position: relative;
 }
 
-ul.cards > li {
-    float: left;
-    border: 0.1em solid #EEE;
-    border-radius: 0.5em;
-    width: 50%;
-    height: 5em;
-    padding: 0.5em;
-    margin: 0 0.5em 0.5em 0;
+ul.cards > li > img {
+    width: 1em;
+    height: 1em;
+}
+
+ul.cards > li > p:first-child {
+    position: absolute;
+    top: 0.7em;
+    left: 2.5em;
+}
+
+ul.cards > li > p:first-child > a:last-child {
+    color: #666;
+    border: #CCC solid 0.1em;
+    border-radius: 1em;
+    padding: 0.1em 0.5em;
+    font-size: 0.8em;
+}
+
+ul.cards > li > p:first-child > a:last-child:hover {
+    text-decoration: none;
+    background-color: #EEE;
+    color: #333;
+    border-color: #DDD;
+}
+
+ul.cards > li > p:last-child {
+    position: absolute;
+    font-size: 0.8em;
+    color: #999;
+    bottom: 0;
+}
+
+ul.cards > li > p:last-child > span {
+    padding: 0.2em 1em 0.2em 2em;
+    background-repeat: no-repeat;
+    background-position: 0 -0.3em;
+    background-size: 2em 2em;
+    background-image: radial-gradient(#EEE 0.6em, transparent 0);
+}
+
+ul.cards > li > p:not(:first-child):not(:last-child) {
+    font-size: 0.9em;
+    padding: 0 0 1em 1.6em;
+    color: #777;
+}
+
+.java-dot {
+    background-image: radial-gradient(#1BB 0.6em, transparent 0);
+}
+
+.php-dot {
+    background-image: radial-gradient(#77B 0.6em, transparent 0);
+}
+
+.js-dot {
+    background-image: radial-gradient(#FD4 0.6em, transparent 0);
+}
+
+.css-dot {
+    background-image: radial-gradient(#36E 0.6em, transparent 0);
+}
+
+.py-dot {
+    background-image: radial-gradient(#5A3 0.6em, transparent 0);
 }
