@@ -37,7 +37,7 @@ _Key achievement: Created the native mobile version of a web based HR Feedback a
 DUOC College    
 2013 – 2016    
 Heavy focus on full stack engineering with modules on both front and back end processes.
-Built a fully working CRM system for Car dealers and a working prototype for interior navition in buildings and stores.
+Built a fully working CRM system for Car dealers and a working prototype for interior navigation in buildings and stores.
 
 **Bachelor of Science**    
 University of Santiago    
@@ -49,11 +49,37 @@ University of Santiago
 - Teamwork
 - Agile frameworks
 - Interpersonal communication skills
-- PHP (Laravel/Cake), Javascript, Java(Spring), HTML5, CSS3, SQL (MySQL/MariaDB), No SQL (MongoDB, Couchbase, DynamoDB)
+- PHP
+- Laravel
+- Cake
+- Javascript
+- Java
+- Spring
+- HTML5
+- CSS3
+- PL SQL
+- MySQL
+- MariaDB
+- No SQL
+- MongoDB
+- Couchbase
+- DynamoDB
 - Status tracking frameworks (Jira)
 - Gitlab CI/CD pipelines
-- AWS (ECR, ECS, LAmbda, Gateway API, DynamoDB, Secret Manager, Parameters)
-- Solid knowledge of SQL and database concepts, Sofware Architecture, clean code & TDD
+- AWS
+- ECR
+- ECS
+- Lambda
+- Gateway API
+- DynamoDB
+- Secret Manager
+- Parameters
+- SOLID principles
+- Clean code
+- TDD
+- Sofware Architecture
+- Python
+- Golang
  
 ## Languages
  
@@ -62,5 +88,5 @@ University of Santiago
 
 ## Projects
 
-- [Phasil Framework](https://phasil.acode.cl) [(github)](https://github.com/AndresRobert/phasil-framework)
-- [Simple Framework](https://simple.acode.cl) [(github)](https://github.com/AndresRobert/simple-framework)
+- Phasil Framework [(web)](https://andresrobert.github.io/Phasil-Framework/) [(github)](https://github.com/AndresRobert/phasil-framework)
+- Simple Framework [(web)](https://andresrobert.github.io/Simple-Framework/) [(github)](https://github.com/AndresRobert/simple-framework)
