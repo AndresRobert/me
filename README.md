@@ -90,3 +90,4 @@ University of Santiago
 
 - Phasil Framework [(web)](https://andresrobert.github.io/Phasil-Framework/) [(github)](https://github.com/AndresRobert/phasil-framework)
 - Simple Framework [(web)](https://andresrobert.github.io/Simple-Framework/) [(github)](https://github.com/AndresRobert/simple-framework)
+- CV2 Object Counter [(github)](https://github.com/AndresRobert/cv2-objectCountExample)
