@@ -1,6 +1,6 @@
 # Andres Robert (he/him)
 
-andresrobert@icloud.com | (+56)9 5209 4004 | [LinkedIn Profile](https://www.linkedin.com/in/andresrobert)   
+andresrobert@icloud.com | (+56)9 5209 4004 | [LinkedIn Profile](https://www.linkedin.com/in/andresrobert) | [web](https://andresrobert.github.io/me/)
 PHP/JS Software Designer @ Globant Chile  
 Lead Server Engineer @ EA Games
 
