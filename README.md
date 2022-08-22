@@ -1,8 +1,8 @@
 # Andres Robert (he/him)
 
-andresrobert@icloud.com | (+56)9 5209 4004 | [LinkedIn Profile](https://www.linkedin.com/in/andresrobert) | [web](https://andresrobert.github.io/me/)
+andresrobert@icloud.com | (+56)9 5209 4004 | [LinkedIn Profile](https://www.linkedin.com/in/andresrobert) | [web](https://andresrobert.github.io/me/)  
 PHP/JS Software Designer @ Globant Chile  
-Lead Server Engineer @ EA Games
+Lead Server Engineer @ EA Games  
 
 Proficient software engineer with 5+ years experience in server side development. Eager to build innovative and cutting edge business solutions, grow learning new technologies and be a key member on an awesome team. In previous roles, created a set of services for hypercasual mobile games using AWS stack that allowed the team to be able to deploy one game a week with fully working features. Also worked in HR mood index technology, identifying specific needs from clients before their needs, improving customer satisfaction.
 
