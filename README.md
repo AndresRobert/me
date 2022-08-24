@@ -36,7 +36,7 @@ _Key achievement: Created the native mobile version of a web based HR Feedback a
 **Bachelor of Engineering**    
 DUOC College    
 2013 – 2016    
-Heavy focus on full stack engineering with modules on both front and back end processes.
+Heavy focus on full stack engineering with modules on both front and backend processes.
 Built a fully working CRM system for Car dealers and a working prototype for interior navigation in buildings and stores.
 
 **Bachelor of Science**    
@@ -48,7 +48,7 @@ University of Santiago
 - Adaptability
 - Teamwork
 - Agile frameworks
-- Interpersonal communication skills
+- Interpersonal communication
 - PHP
 - Laravel
 - Cake
@@ -88,6 +88,6 @@ University of Santiago
 
 ## Projects
 
-- Phasil Framework [(web)](https://andresrobert.github.io/Phasil-Framework/) [(github)](https://github.com/AndresRobert/phasil-framework)
 - Simple Framework [(web)](https://andresrobert.github.io/Simple-Framework/) [(github)](https://github.com/AndresRobert/simple-framework)
+- Phasil Framework [(web)](https://andresrobert.github.io/Phasil-Framework/) [(github)](https://github.com/AndresRobert/phasil-framework)
 - CV2 Object Counter [(github)](https://github.com/AndresRobert/cv2-objectCountExample)
