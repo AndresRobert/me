@@ -89,5 +89,6 @@ University of Santiago
 ## Projects
 
 - Simple Framework [(web)](https://andresrobert.github.io/Simple-Framework/) [(github)](https://github.com/AndresRobert/simple-framework)
+- J-Neric Framework [(web)](https://andresrobert.github.io/J-Neric-Framework/) [(github)](https://github.com/AndresRobert/j-neric-framework)
 - Phasil Framework [(web)](https://andresrobert.github.io/Phasil-Framework/) [(github)](https://github.com/AndresRobert/phasil-framework)
 - CV2 Object Counter [(github)](https://github.com/AndresRobert/cv2-objectCountExample)
