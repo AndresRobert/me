@@ -1,94 +1,136 @@
 # Andres Robert (he/him)
 
-andresrobert@icloud.com | (+56)9 5209 4004 | [LinkedIn Profile](https://www.linkedin.com/in/andresrobert) | [web](https://andresrobert.github.io/me/)  
-PHP/JS Software Designer @ Globant Chile  
-Senior PHP Server Engineer @ EA Games  
+andresrobert@icloud.com | (+1) 647 458 9012 | [LinkedIn Profile](https://www.linkedin.com/in/andresrobert) | [web](https://andresrobert.github.io/me/)  
+Senior PHP Server Engineer @ EA Glu Mobile  
 
-Proficient software engineer with 5+ years experience in server side development. Eager to build innovative and cutting edge business solutions, grow learning new technologies and be a key member on an awesome team. In previous roles, created a set of services for hypercasual mobile games using AWS stack that allowed the team to be able to deploy one game a week with fully working features. Also worked in HR mood index technology, identifying specific needs from clients before their needs, improving customer satisfaction.
+Proven software engineer with over 8 years of experience in server-side development. Dedicated to creating innovative and cutting-edge business solutions, committed to continuous learning of new technologies, and adept at contributing as a key member of dynamic teams. In prior roles, successfully established a suite of services for hypercasual mobile games using the AWS stack, enabling the deployment of a fully functional game each week. Additionally, played a pivotal role in HR mood index technology, proactively identifying specific client needs to enhance customer satisfaction.
 
 ## Recent Experience
 
+**Staff Server Engineer**    
+Electronic Arts Glu Mobile Toronto    
+Feb 2023 – Present  
+
+- **Focus Area:**
+  - AI adoption for process automation on CI/CD pipelines
+  - Taking ownership of current features
+  - Developing new features
+  - Supporting current systems
+  - Improving tech stack
+  - Creating generic modules to serve capabilities across all mobile games at EA
+  - Upgrading key API components
+  
+- **Responsibilities:**
+  - Contributing to the server-side engineering team's AI adoption initiatives.
+  - Leading the development and enhancement of existing and new features.
+  - Providing support for current systems and optimizing the tech stack.
+  - Designing and implementing generic modules to extend capabilities across EA's mobile games.
+  - Spearheading the upgrade of key API components for improved performance.
+  - Couchbase 2 to Couchbase 3 upgrading.
+
 **Software Designer, Team Leader & Gatekeeper**    
 Globant Chile    
-Jan 2022 – present    
+Jan 2022 – Feb 2023    
 
-Migrated a full hypercasual games set of services from Laravel PHP to Spring Java. Also included rethinking and redesign a previous microservices architecture (incl. AWS Gateway/ECR/ECS/Lambda/DynamoDB and Gitlab CI/CD) into a monolith DD Driven infrastructure. Also moving data from DynamoDB to Couchbase 3.    
-Utilized and updated integration/deployment scripts to improve continuous integration practices.    
-Liaised with Product Managers to identify minimum viable product requirements and clearly defined feature sets into well-scoped user stories for individual team members.    
-_Key achievement: Provided a solid and fully customizable backend support for a fast hypercasual game development process._
+- **Focus Area:**
+  - Migrated a complete hypercasual games service set from Laravel PHP to Spring Java.
+  - Rethought and redesigned the existing microservices architecture into a monolith DD Driven infrastructure.
+  - Data migration from DynamoDB to Couchbase 3.
+
+- **Responsibilities:**
+  - Innovating integration/deployment scripts for improved continuous integration practices.
+  - Collaborating with Product Managers to identify minimum viable product requirements.
+  - Clearly defining feature sets into well-scoped user stories for individual team members.
+  - Key Achievement: Provided a solid and fully customizable backend to support rapid hypercasual game development.
 
 **Senior Developer, Team Leader**    
 Globant Chile    
 Mar 2020 - Dec 2021
 
-Helped implementing Xsolla payments for a AAA+ game at GLU Mobile. Worked full focus on creating a set of microservices for rapid development of hypercasual games from zero to hero (incl. AWS Gateway/ECR/ECS/Lambda/DynamoDB and Gitlab CI/CD).
-_Key achievement: Implemented a previously created architecture for full microservices support for games in record time._
+- **Focus Area:**
+  - Spearheaded the successful implementation of Xsolla payments for a AAA+ game at GLU Mobile.
+  - Pioneered the development of microservices to facilitate rapid hypercasual game development.
+  
+- **Responsibilities:**
+  - Achieved a significant milestone by implementing a cutting-edge microservices architecture for games in record time.
 
 **Lead Developer**    
 PeopleFirst S.A.    
-Ene 2017 - Feb 2020
+Jan 2017 - Feb 2020
 
-Created a custom made PHP/OOP/MVC framework and refactored all available modules into this new architecture. Also a custom made JS/CSS framework for UI design, refactoring all existing inline frontend code.    
-_Key achievement: Created the native mobile version of a web based HR Feedback application (Android and iOS) and created 2 new modules for the HR software: KPI and OKR_
+- **Focus Area:**
+  - Engineered a tailored PHP/OOP/MVC framework, optimizing the development process.
+  - Innovated a bespoke JS/CSS framework for UI design, streamlining the frontend development workflow.
+  
+- **Responsibilities:**
+  - Key Achievement: Orchestrated the creation of the native mobile version of a web-based HR Feedback application (Android and iOS).
+  - Developed two pivotal modules, KPI and OKR, enriching the HR software's functionality.
 
 ## Education
  
 **Bachelor of Engineering**    
 DUOC College    
 2013 – 2016    
-Heavy focus on full stack engineering with modules on both front and backend processes.
-Built a fully working CRM system for Car dealers and a working prototype for interior navigation in buildings and stores.
+Engaged in comprehensive full-stack engineering coursework, addressing both front and backend processes. Successfully designed and implemented a fully operational CRM system tailored for car dealers. Additionally, created a prototype for interior navigation within buildings and stores. Developed an effective guidance system for indoor navigation. Innovated by crafting a suite of frameworks for CSS, Javascript, and PHP backend systems.
 
 **Bachelor of Science**    
 University of Santiago    
 2004 – 2007    
 
+## References
+
+**Prashant Arora**
+- Technical Director at Electronic Arts
+- prashant.arora@ea.com
+
+**Martin Butt**
+- CTO at BODS
+- linkedin.com/in/martinbutt
+
+**Benjamin Prieto**
+- Technical Director at Globant Chile
+- benjamin.prieto@globant.com
+
 ## Skills
- 
+**Soft Skills**
 - Adaptability
 - Teamwork
-- Agile frameworks
-- Interpersonal communication
+- Interpersonal Communication
+- Development
+
+**Technologies**
 - PHP
-- Laravel
-- Cake
-- Javascript
-- Java
-- Spring
-- HTML5
-- CSS3
-- PL SQL
-- MySQL
-- MariaDB
-- No SQL
-- MongoDB
-- Couchbase
-- DynamoDB
-- Status tracking frameworks (Jira)
-- Gitlab CI/CD pipelines
-- AWS
-- ECR
-- ECS
-- Lambda
-- Gateway API
-- DynamoDB
-- Secret Manager
-- Parameters
-- SOLID principles
-- Clean code
-- TDD
-- Sofware Architecture
+- Javascript/HTML5/CSS3
+- Go
 - Python
-- Golang
- 
+- Shell
+
+**Data Management**
+- MySQL/MariaDB
+- NoSQL (MongoDB, Couchbase, DynamoDB)
+- Redis
+- OpenSearch/Elastic/Snowflake
+
+**Tools**
+- Jira
+- Gitlab
+- AWS (ECR, ECS, Lambda...)
+- Monitoring (Bugsnag, NewRelic)
+- Jenkins
+
+**Software Engineering Principles**
+- SOLID Principles
+- Clean Code
+- Test-Driven Development (TDD)
+- Trunk Based Development CI/CD
+
 ## Languages
  
 - Spanish (First / Native)
-- English (C1 Level)
+- English (B2)
 
 ## Projects
 
-- Simple Framework [(web)](https://andresrobert.github.io/Simple-Framework/) [(github)](https://github.com/AndresRobert/simple-framework)
-- J-Neric Framework [(web)](https://andresrobert.github.io/J-Neric-Framework/) [(github)](https://github.com/AndresRobert/j-neric-framework)
-- Phasil Framework [(web)](https://andresrobert.github.io/Phasil-Framework/) [(github)](https://github.com/AndresRobert/phasil-framework)
-- CV2 Object Counter [(github)](https://github.com/AndresRobert/cv2-objectCountExample)
+- [Simple Framework (web)](https://andresrobert.github.io/Simple-Framework/) [(github)](https://github.com/AndresRobert/simple-framework)
+- [J-Neric Framework (web)](https://andresrobert.github.io/J-Neric-Framework/) [(github)](https://github.com/AndresRobert/j-neric-framework)
+- [Phasil Framework (web)](https://andresrobert.github.io/Phasil-Framework/) [(github)](https://github.com/AndresRobert/phasil-framework)
