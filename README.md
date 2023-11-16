@@ -1,7 +1,7 @@
 # Andres Robert (he/him)
 
 andresrobert@icloud.com | (+1) 647 458 9012 | [LinkedIn Profile](https://www.linkedin.com/in/andresrobert) | [web](https://andresrobert.github.io/me/)  
-Senior PHP Server Engineer @ EA Glu Mobile  
+Staff Server Engineer @ EA Glu Mobile  
 
 Proven software engineer with over 8 years of experience in server-side development. Dedicated to creating innovative and cutting-edge business solutions, committed to continuous learning of new technologies, and adept at contributing as a key member of dynamic teams. In prior roles, successfully established a suite of services for hypercasual mobile games using the AWS stack, enabling the deployment of a fully functional game each week. Additionally, played a pivotal role in HR mood index technology, proactively identifying specific client needs to enhance customer satisfaction.
 
